@@ -1,0 +1,223 @@
+[info   ] [FileManager]: Data files will be fetched from: '/home/andralves/supertuxkart-1.0-linux/data/'
+[info   ] [FileManager]: User directory is '/home/andralves/.config/supertuxkart/config-0.10/'.
+[info   ] [FileManager]: Addons files will be stored in '/home/andralves/.local/share/supertuxkart/addons/'.
+[info   ] [FileManager]: Screenshots will be stored in '/home/andralves/.local/share/supertuxkart/screenshots/'.
+[info   ] [FileManager]: User-defined grand prix will be stored in '/home/andralves/.local/share/supertuxkart/grandprix/'.
+[info   ] [FileManager]: Asset 0 will be loaded from '/home/andralves/supertuxkart-1.0-linux/data/challenges/'.
+[info   ] [FileManager]: Asset 1 will be loaded from '/home/andralves/supertuxkart-1.0-linux/data/gfx/'.
+[info   ] [FileManager]: Asset 2 will be loaded from '/home/andralves/supertuxkart-1.0-linux/data/grandprix/'.
+[info   ] [FileManager]: Asset 3 will be loaded from '/home/andralves/supertuxkart-1.0-linux/data/gui/icons/'.
+[info   ] [FileManager]: Asset 4 will be loaded from '/home/andralves/supertuxkart-1.0-linux/data/gui/screens/'.
+[info   ] [FileManager]: Asset 5 will be loaded from '/home/andralves/supertuxkart-1.0-linux/data/gui/dialogs/'.
+[info   ] [FileManager]: Asset 6 will be loaded from '/home/andralves/supertuxkart-1.0-linux/data/library/'.
+[info   ] [FileManager]: Asset 7 will be loaded from '/home/andralves/supertuxkart-1.0-linux/data/models/'.
+[info   ] [FileManager]: Asset 8 will be loaded from '/home/andralves/supertuxkart-1.0-linux/data/music/'.
+[info   ] [FileManager]: Asset 9 will be loaded from '/home/andralves/supertuxkart-1.0-linux/data/replay/'.
+[info   ] [FileManager]: Asset 10 will be loaded from '/home/andralves/supertuxkart-1.0-linux/data/tracks/'.
+[info   ] [FileManager]: Asset 11 will be loaded from '/home/andralves/supertuxkart-1.0-linux/data/sfx/'.
+[info   ] [FileManager]: Asset 12 will be loaded from '/home/andralves/supertuxkart-1.0-linux/data/shaders/'.
+[info   ] [FileManager]: Asset 13 will be loaded from '/home/andralves/supertuxkart-1.0-linux/data/skins/'.
+[info   ] [FileManager]: Asset 14 will be loaded from '/home/andralves/supertuxkart-1.0-linux/data/textures/'.
+[info   ] [FileManager]: Asset 15 will be loaded from '/home/andralves/supertuxkart-1.0-linux/data/ttf/'.
+[info   ] [FileManager]: Asset 16 will be loaded from '/home/andralves/supertuxkart-1.0-linux/data/po/'.
+[verbose  ] translation: Env var LANGUAGE = 'en_US.UTF-8'.
+[verbose  ] translation: Language 'English (United States)'.
+[info   ] tinygettext: Adding language fallback en
+
+[info   ] IrrDriver: OpenGL version: 4.3
+[info   ] IrrDriver: OpenGL vendor: NVIDIA Corporation
+[info   ] IrrDriver: OpenGL renderer: GeForce MX150/PCIe/SSE2
+[info   ] IrrDriver: OpenGL version string: 4.3.0 NVIDIA 430.26
+[info   ] GLDriver: ARB Buffer Storage Present
+[info   ] GLDriver: ARB Compute Shader Present
+[info   ] GLDriver: ARB Arrays of Arrays Present
+[info   ] GLDriver: ARB Texture Storage Present
+[info   ] GLDriver: ARB Texture View Present
+[info   ] GLDriver: ARB Image Load Store Present
+[info   ] GLDriver: ARB Shader Atomic Counters Present
+[info   ] GLDriver: ARB Shader Storage Buffer Object Present
+[info   ] GLDriver: EXT Texture Compression S3TC Present
+[info   ] GLDriver: ARB Uniform Buffer Object Present
+[info   ] GLDriver: ARB Explicit Attrib Location Present
+[info   ] GLDriver: EXT Texture Filter Anisotropic Present
+[info   ] GLDriver: Geometry Shaders Present
+[info   ] GLDriver: ARB Texture Buffer Object Present
+[info   ] GLDriver: ARB Texture Swizzle Present
+[info   ] GLDriver: ARB Pixel Buffer Object Present
+[info   ] GLDriver: ARB Sampler Objects Present
+[info   ] GLDriver: ARB Vertex Type 2_10_10_10_rev Present
+[info   ] GLDriver: ARB Instanced Arrays Present
+[info   ] SharedGPUObjects: Hardware Skinning enabled, method: TBO, max bones: 1024
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_pass.vert
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_solid.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_shadow.vert
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/white.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_skinning.vert
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_skinning_shadow.vert
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_normal_map.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_alpha_test.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_shadow_alpha_test.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_decal.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_grass_pass.vert
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_grass.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_grass_shadow.vert
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_unlit.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_transparent.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_ghost.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_dynamic_night_bloom.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_tilling_mitigation.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_vertical_mapping.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_road_blending.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_displace.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/colorize.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_normal_visualizer.vert
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_normal_visualizer.geom
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sp_normal_visualizer.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/screenquad.vert
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/motion_blur.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/lightning.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/primitive2dlist.vert
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/transparent.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/texturedquad.vert
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/uniformcolortexturedquad.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/texturedquad.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/coloredquad.vert
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/coloredquad.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/colortexturedquad.vert
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/colortexturedquad.frag
+[info   ] irr_driver: GLSL supported.
+[info   ] HTTPRequest: Sending userid=116535&token=************************ to https://online.supertuxkart.net/api/v2/user/saved-session/
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/xml/online_news.xml
+[warn   ] Track: NavMesh is not found for arena About the Garage, disable AI for it.
+
+[warn   ] track: Music information file 'amazon_jungle.music' not found for track 'Amazonian Journey' - ignored.
+
+[warn   ] track: Music information for track 'Amazonian Journey' replaced by default music.
+
+[warn   ] Track: NavMesh is not found for arena Amphitheatre, disable AI for it.
+
+[warn   ] Track: NavMesh is not found for arena Area 498, disable AI for it.
+
+[warn   ] track: Music information file 'demonhill.music' not found for track 'Blackhill Mansion' - ignored.
+
+[warn   ] track: Music information for track 'Blackhill Mansion' replaced by default music.
+
+[warn   ] Track: NavMesh is not found for arena Champs Castle, disable AI for it.
+
+[warn   ] Track: NavMesh is not found for arena Circle Of Destiny, disable AI for it.
+
+[warn   ] Track: NavMesh is not found for arena Circle of ubuntu, disable AI for it.
+
+[warn   ] track: Music information file 'xeon6.music' not found for track 'Coloseum' - ignored.
+
+[warn   ] track: Music information for track 'Coloseum' replaced by default music.
+
+[warn   ] Track: NavMesh is not found for arena Coloseum, disable AI for it.
+
+[warn   ] Track: NavMesh is not found for arena Ice cube , disable AI for it.
+
+[warn   ] Track: NavMesh is not found for arena Interplanetary War, disable AI for it.
+
+[warn   ] track: Music information file 'Origin.music' not found for track 'labirus' - ignored.
+
+[warn   ] track: Music information for track 'labirus' replaced by default music.
+
+[warn   ] Track: NavMesh is not found for arena labirus, disable AI for it.
+
+[warn   ] track: Music information file 'jumping_to_the_stars.music' not found for track 'Las Dunas Stadium' - ignored.
+
+[warn   ] track: Music information for track 'Las Dunas Stadium' replaced by default music.
+
+[warn   ] Track: NavMesh is not found for arena Lava island, disable AI for it.
+
+[warn   ] Track: NavMesh is not found for arena Magma Battle, disable AI for it.
+
+[warn   ] Track: NavMesh is not found for arena Mall, disable AI for it.
+
+[warn   ] track: Music information file 'demonhill.music' not found for track 'Nolok's Factory' - ignored.
+
+[warn   ] track: Music information for track 'Nolok's Factory' replaced by default music.
+
+[warn   ] Track: NavMesh is not found for arena Soccer arena, disable AI for it.
+
+[warn   ] Track: NavMesh is not found for arena STK Mercury, disable AI for it.
+
+[warn   ] Track: NavMesh is not found for arena The lost subsea, disable AI for it.
+
+[warn   ] Track: NavMesh is not found for arena TSS, disable AI for it.
+
+[warn   ] Track: NavMesh is not found for arena Warehouse, disable AI for it.
+
+[info   ] GrandPrixManager: Loading Grand Prix files from /home/andralves/supertuxkart-1.0-linux/data/grandprix/
+[info   ] GrandPrixManager: Loading Grand Prix files from /home/andralves/.local/share/supertuxkart/grandprix/
+[info   ] addons: Using cached addons.xml.
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/32999604857af930517f49.png
+[warn   ] KartProperties: Can't find kart type '' for kart 'Blinky', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Buggie', defaulting to 'light'.
+[info   ] Achievements: Synching achievement 1,2,3,4,5,6,7,8,9,11 to server.
+[info   ] HTTPRequest: Sending userid=116535&token=************************&achievementid=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C11 to https://online.supertuxkart.net/api/v2/user/achieving/
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Sending userid=116535&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Sending userid=116535&token=************************&visitingid=116535 to https://online.supertuxkart.net/api/v2/user/get-friends-list/
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Sending userid=116535&token=************************&visitingid=116535 to https://online.supertuxkart.net/api/v2/user/get-friends-list/
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/simple_particle.vert
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/simple_particle.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/alphatest_particle.vert
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/alphatest_particle.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/degraded_ibl.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/sunlight.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/pointlight.vert
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/pointlight.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/linearizedepth.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/ssao.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/bilateralH.comp
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/bilateralV.comp
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/combine_diffuse_color.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/glow.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/tonemap.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/mlaa_color1.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/mlaa_blend2.frag
+[info   ] ShaderFilesManager: Compiling shader: /home/andralves/supertuxkart-1.0-linux/data/shaders/mlaa_neigh3.frag
+[info   ] HTTPRequest: Sending userid=116535&token=************************ to https://online.supertuxkart.net/api/v2/user/client-quit/
+[verbose  ] Thread: Start waiting 1807785.028000
+[verbose  ] Thread: Waited 0.581000 seconds for thread to become deleteable.
+[verbose  ] Thread: Stop waiting 1807785.609000
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
