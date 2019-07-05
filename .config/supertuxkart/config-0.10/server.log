@@ -36,6 +36,12 @@
 
 [warn   ] Track: NavMesh is not found for arena Area 498, disable AI for it.
 
+[warn   ] track: Music information file 'demonhill.music' not found for track 'Blackhill Mansion' - ignored.
+
+[warn   ] track: Music information for track 'Blackhill Mansion' replaced by default music.
+
+[warn   ] Track: NavMesh is not found for arena Champs Castle, disable AI for it.
+
 [warn   ] Track: NavMesh is not found for arena Circle Of Destiny, disable AI for it.
 
 [warn   ] Track: NavMesh is not found for arena Circle of ubuntu, disable AI for it.
@@ -84,119 +90,17 @@
 [info   ] GrandPrixManager: Loading Grand Prix files from /home/andralves/.local/share/supertuxkart/grandprix/
 [warn   ] KartProperties: Can't find kart type '' for kart 'Blinky', defaulting to 'light'.
 [warn   ] KartProperties: Can't find kart type '' for kart 'Buggie', defaulting to 'light'.
-Sun Jun 16 22:48:45 2019 [info   ] STKHost: Host initialized.
-Sun Jun 16 22:48:45 2019 [info   ] STKHost: Server port is 2759
-Sun Jun 16 22:48:45 2019 [info   ] main: Creating a WAN server 'andr.alves's&#x20;server'.
-Sun Jun 16 22:48:45 2019 [info   ] ServerLobby: Reset server to initial state.
-Sun Jun 16 22:48:45 2019 [info   ] ProtocolManager: A 11ServerLobby protocol has been started.
-Sun Jun 16 22:48:45 2019 [info   ] Achievements: Synching achievement 1,2,3,4,6,7,8,9,11 to server.
-Sun Jun 16 22:48:45 2019 [info   ] HTTPRequest: Sending userid=116535&token=************************&achievementid=1%2C2%2C3%2C4%2C6%2C7%2C8%2C9%2C11 to https://online.supertuxkart.net/api/v2/user/achieving/
-Sun Jun 16 22:48:45 2019 [info   ] STKHost: Listening has been started.
-Sun Jun 16 22:48:45 2019 [info   ] ServerLobby: Public server address 213.22.34.108:2759
-Sun Jun 16 22:48:45 2019 [info   ] HTTPRequest: Sending userid=116535&token=************************&address=3574997612&port=2759&private_port=2759&name=andr.alves%27s%20server&max_players=8&difficulty=2&game_mode=8&password=*&version=6 to https://online.supertuxkart.net/api/v2/server/create/
-Sun Jun 16 22:48:46 2019 [info   ] HTTPRequest: Sending userid=116535&token=************************&visitingid=116535 to https://online.supertuxkart.net/api/v2/user/get-friends-list/
-Sun Jun 16 22:48:46 2019 [info   ] ServerLobby: Server 42650 is now online.
-Sun Jun 16 22:48:46 2019 [info   ] STKHost: 127.0.0.1:52957 has just connected. There are now 1 peers.
-Sun Jun 16 22:48:46 2019 [info   ] ServerLobby: Message received with type 1.
-Sun Jun 16 22:48:47 2019 [info   ] ServerLobby: andr.alves validated
-Sun Jun 16 22:48:47 2019 [info   ] ServerLobby: New player andr.alves with online id 116535 from 127.0.0.1:52957 with SuperTuxKart/1.0 (Linux).
-Sun Jun 16 22:48:47 2019 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been started.
-Sun Jun 16 22:48:52 2019 [info   ] ServerLobby: Message received with type 23.
-Sun Jun 16 22:49:09 2019 [warn   ] ConnectToPeer: Time out trying to connect to 213.22.34.108:60286
-Sun Jun 16 22:49:09 2019 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been terminated.
-Sun Jun 16 22:51:56 2019 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been started.
-Sun Jun 16 22:52:04 2019 [info   ] STKHost: 156.145.114.252:32995 has just connected. There are now 2 peers.
-Sun Jun 16 22:52:04 2019 [info   ] ConnectToPeer: Peer 156.145.114.252:32995 has established a connection.
-Sun Jun 16 22:52:04 2019 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been terminated.
-Sun Jun 16 22:52:04 2019 [info   ] ServerLobby: Message received with type 1.
-Sun Jun 16 22:52:04 2019 [info   ] ServerLobby: Haenschen validated
-Sun Jun 16 22:52:04 2019 [info   ] ServerLobby: New player Haenschen with online id 162025 from 156.145.114.252:32995 with SuperTuxKart/1.0 (Linux).
-Sun Jun 16 22:52:11 2019 [info   ] ServerLobby: Message received with type 5.
-Sun Jun 16 22:52:16 2019 [info   ] ServerLobby: Message received with type 7.
-Sun Jun 16 22:52:16 2019 [info   ] ServerLobby: Message received with type 7.
-Sun Jun 16 22:52:22 2019 [info   ] ServerLobby: Message received with type 16.
-Sun Jun 16 22:52:25 2019 [info   ] ServerLobby: Message received with type 16.
-Sun Jun 16 22:52:25 2019 [info   ] ServerLobby: Message received with type 16.
-Sun Jun 16 22:52:26 2019 [info   ] ServerLobby: Message received with type 16.
-Sun Jun 16 22:52:26 2019 [info   ] ServerLobby: Message received with type 16.
-Sun Jun 16 22:52:27 2019 [info   ] ServerLobby: Message received with type 16.
-Sun Jun 16 22:52:34 2019 [info   ] ServerLobby: Message received with type 16.
-Sun Jun 16 22:52:34 2019 [info   ] LobbyProtocol: Player configuration ready.
-Sun Jun 16 22:52:34 2019 [info   ] ServerLobbyRoom: Starting the race loading.
-Sun Jun 16 22:52:34 2019 [info   ] LobbyProtocol: Ready !
-Sun Jun 16 22:52:34 2019 [verbose  ] RaceManager: Nb of karts=14, ghost karts:0 ai:0 players:14
-
-Sun Jun 16 22:52:34 2019 [info   ] Track: Overall scene complexity estimated at 1400
-Sun Jun 16 22:52:34 2019 [info   ] NetworkPlayerController: New network player controller.
-Sun Jun 16 22:52:34 2019 [info   ] NetworkPlayerController: New network player controller.
-Sun Jun 16 22:52:34 2019 [info   ] NetworkPlayerController: New network player controller.
-Sun Jun 16 22:52:34 2019 [info   ] NetworkPlayerController: New network player controller.
-Sun Jun 16 22:52:34 2019 [info   ] NetworkPlayerController: New network player controller.
-Sun Jun 16 22:52:34 2019 [info   ] NetworkPlayerController: New network player controller.
-Sun Jun 16 22:52:34 2019 [info   ] NetworkPlayerController: New network player controller.
-Sun Jun 16 22:52:34 2019 [info   ] NetworkPlayerController: New network player controller.
-Sun Jun 16 22:52:34 2019 [info   ] NetworkPlayerController: New network player controller.
-Sun Jun 16 22:52:34 2019 [info   ] NetworkPlayerController: New network player controller.
-Sun Jun 16 22:52:34 2019 [info   ] NetworkPlayerController: New network player controller.
-Sun Jun 16 22:52:34 2019 [info   ] NetworkPlayerController: New network player controller.
-Sun Jun 16 22:52:34 2019 [info   ] NetworkPlayerController: New network player controller.
-Sun Jun 16 22:52:34 2019 [info   ] NetworkPlayerController: New network player controller.
-Sun Jun 16 22:52:34 2019 [info   ] ProtocolManager: A 12GameProtocol protocol has been started.
-Sun Jun 16 22:52:34 2019 [info   ] ProtocolManager: A 18GameEventsProtocol protocol has been started.
-Sun Jun 16 22:52:38 2019 [info   ] ServerLobby: Message received with type 9.
-Sun Jun 16 22:52:38 2019 [info   ] ServerLobby: Peer 1 has finished loading world at 1648830.077000
-Sun Jun 16 22:52:39 2019 [info   ] ServerLobby: Message received with type 9.
-Sun Jun 16 22:52:39 2019 [info   ] ServerLobby: Peer 0 has finished loading world at 1648830.642000
-Sun Jun 16 22:52:39 2019 [info   ] ServerLobby: Max ping to ServerConfig::m_max_ping for live joining.
-Sun Jun 16 22:52:39 2019 [info   ] ServerLobby: Max ping from peers: 300, jitter tolerance: 100
-Sun Jun 16 22:52:39 2019 [info   ] ServerLobby: Start game after 2750ms
-Sun Jun 16 22:52:41 2019 [info   ] ServerLobby: Started at 1648833.392000
-Sun Jun 16 22:52:51 2019 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been started.
-Sun Jun 16 22:53:13 2019 [warn   ] ConnectToPeer: Time out trying to connect to 138.118.17.27:40970
-Sun Jun 16 22:53:13 2019 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been terminated.
-Sun Jun 16 22:53:21 2019 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been started.
-Sun Jun 16 22:53:43 2019 [warn   ] ConnectToPeer: Time out trying to connect to 138.118.17.27:50348
-Sun Jun 16 22:53:43 2019 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been terminated.
-Sun Jun 16 22:55:56 2019 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been started.
-Sun Jun 16 22:56:18 2019 [warn   ] ConnectToPeer: Time out trying to connect to 191.137.111.62:58791
-Sun Jun 16 22:56:18 2019 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been terminated.
-Sun Jun 16 22:56:31 2019 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been started.
-Sun Jun 16 22:56:41 2019 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been started.
-Sun Jun 16 22:56:53 2019 [warn   ] ConnectToPeer: Time out trying to connect to 191.137.111.62:54920
-Sun Jun 16 22:56:53 2019 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been terminated.
-Sun Jun 16 22:57:03 2019 [warn   ] ConnectToPeer: Time out trying to connect to 191.137.111.62:53834
-Sun Jun 16 22:57:03 2019 [info   ] ProtocolManager: A 13ConnectToPeer protocol has been terminated.
-Sun Jun 16 23:02:43 2019 [info   ] ServerLobby: The game is considered finish.
-Sun Jun 16 23:02:43 2019 [info   ] ProtocolManager: A 18GameEventsProtocol protocol has been terminated.
-Sun Jun 16 23:02:43 2019 [info   ] ProtocolManager: A 12GameProtocol protocol has been terminated.
-Sun Jun 16 23:02:43 2019 [info   ] Singleton: Destroyed singleton.
-Sun Jun 16 23:02:43 2019 [info   ] Singleton: Destroyed singleton.
-Sun Jun 16 23:02:43 2019 [info   ] Singleton: Destroyed singleton.
-Sun Jun 16 23:02:43 2019 [info   ] ServerLobby: End of game message sent
-Sun Jun 16 23:02:50 2019 [info   ] ServerLobby: Synchronous message received with type 14.
-Sun Jun 16 23:02:54 2019 [info   ] ServerLobby: Synchronous message received with type 14.
-Sun Jun 16 23:02:54 2019 [info   ] ServerLobby: Reset server to initial state.
-Sun Jun 16 23:03:04 2019 [info   ] STKHost: 156.145.114.252:32995 has just disconnected. There are now 1 peers.
-Sun Jun 16 23:03:04 2019 [info   ] ServerLobby: Haenschen disconnected
-Sun Jun 16 23:27:18 2019 [error  ] XMLRequest::afterOperation: curl_easy_perform() failed: Timeout was reached
-Sun Jun 16 23:27:18 2019 [error  ] ServerLobby: Poll server request failed: Unable to connect to the server. Check your internet connection or try again later.
-Sun Jun 16 23:27:28 2019 [warn   ] ServerLobby: Trying auto server recovery.
-Sun Jun 16 23:27:28 2019 [info   ] ServerLobby: Public server address 213.22.34.108:2759
-Sun Jun 16 23:27:32 2019 [info   ] HTTPRequest: Sending userid=116535&token=************************&address=3574997612&port=2759&private_port=2759&name=andr.alves%27s%20server&max_players=8&difficulty=2&game_mode=8&password=*&version=6 to https://online.supertuxkart.net/api/v2/server/create/
-Sun Jun 16 23:27:33 2019 [error  ] ServerLobby: Specified server already exists.
-Sun Jun 16 23:32:41 2019 [error  ] XMLRequest::afterOperation: curl_easy_perform() failed: Timeout was reached
-Sun Jun 16 23:32:41 2019 [error  ] ServerLobby: Poll server request failed: Unable to connect to the server. Check your internet connection or try again later.
-Sun Jun 16 23:32:49 2019 [warn   ] ServerLobby: Trying auto server recovery.
-Sun Jun 16 23:32:49 2019 [info   ] ServerLobby: Public server address 213.22.34.108:2759
-Sun Jun 16 23:32:51 2019 [info   ] HTTPRequest: Sending userid=116535&token=************************&address=3574997612&port=2759&private_port=2759&name=andr.alves%27s%20server&max_players=8&difficulty=2&game_mode=8&password=*&version=6 to https://online.supertuxkart.net/api/v2/server/create/
-Sun Jun 16 23:32:52 2019 [error  ] ServerLobby: Specified server already exists.
-Sun Jun 16 23:47:03 2019 [info   ] STKHost: 127.0.0.1:52957 has just disconnected. There are now 0 peers.
-Sun Jun 16 23:47:03 2019 [info   ] ServerLobby: andr.alves disconnected
-Sun Jun 16 23:47:03 2019 [info   ] ServerLobby: Unregister server address 213.22.34.108:2759
-Sun Jun 16 23:47:03 2019 [info   ] HTTPRequest: Sending userid=116535&token=************************&address=3574997612&port=2759 to https://online.supertuxkart.net/api/v2/server/stop/
-Sun Jun 16 23:47:04 2019 [info   ] STKHost: Listening has been stopped.
-[info   ] HTTPRequest: Sending userid=116535&token=************************ to https://online.supertuxkart.net/api/v2/user/client-quit/
-[verbose  ] Thread: Start waiting 1652095.822000
-[verbose  ] Thread: Waited 0.704000 seconds for thread to become deleteable.
-[verbose  ] Thread: Stop waiting 1652096.526000
+Sun Jun 23 18:49:44 2019 [info   ] STKHost: Host initialized.
+Sun Jun 23 18:49:44 2019 [info   ] STKHost: Server port is 2759
+Sun Jun 23 18:49:44 2019 [info   ] main: Creating a LAN server 'andr.alves's&#x20;server'.
+Sun Jun 23 18:49:44 2019 [info   ] ServerLobby: Reset server to initial state.
+Sun Jun 23 18:49:44 2019 [info   ] ProtocolManager: A 11ServerLobby protocol has been started.
+Sun Jun 23 18:49:44 2019 [info   ] STKHost: Listening has been started.
+Sun Jun 23 18:49:44 2019 [info   ] STKHost: 127.0.0.1:51801 has just connected. There are now 1 peers.
+Sun Jun 23 18:49:44 2019 [info   ] ServerLobby: Message received with type 1.
+Sun Jun 23 18:49:44 2019 [info   ] ServerLobby: New player andr.alves with online id 116535 from 127.0.0.1:51801 with SuperTuxKart/1.0 (Linux).
+Sun Jun 23 18:50:03 2019 [error  ] XMLRequest::afterOperation: curl_easy_perform() failed: Timeout was reached
+Sun Jun 23 18:52:46 2019 [info   ] STKHost: 127.0.0.1:51801 has just disconnected. There are now 0 peers.
+Sun Jun 23 18:52:46 2019 [info   ] ServerLobby: andr.alves disconnected
+Sun Jun 23 18:52:46 2019 [info   ] STKHost: Listening has been stopped.
 [info   ] Singleton: Destroyed singleton.

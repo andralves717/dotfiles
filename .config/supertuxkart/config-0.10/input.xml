@@ -13,60 +13,41 @@ Event 3 : Gamepad button press
 -->
 
 <keyboard enabled="true">
-    <action name="steerLeft" event="1" id="37" character="52" />
-    <action name="steerRight" event="1" id="39" character="52" />
-    <action name="accel" event="1" id="38" character="52" />
-    <action name="brake" event="1" id="40" character="52" />
-    <action name="nitro" event="1" id="161" character="48" />
-    <action name="drift" event="1" id="33" character="48" />
-    <action name="rescue" event="1" id="8" character="52" />
-    <action name="fire" event="1" id="13" character="48" />
-    <action name="lookBack" event="1" id="34" character="48" />
-    <action name="pauserace" event="1" id="27" character="52" />
-    <action name="menuUp" event="1" id="38" character="52" />
-    <action name="menuDown" event="1" id="40" character="52" />
-    <action name="menuLeft" event="1" id="37" character="52" />
-    <action name="menuRight" event="1" id="39" character="52" />
-    <action name="menuSelect" event="1" id="13" character="52" />
-    <action name="menuCancel" event="1" id="8" character="52" />
+    <action name="steerLeft" event="1" id="37" character="53" />
+    <action name="steerRight" event="1" id="39" character="53" />
+    <action name="accel" event="1" id="38" character="53" />
+    <action name="brake" event="1" id="40" character="53" />
+    <action name="nitro" event="1" id="78" character="0" />
+    <action name="drift" event="1" id="86" character="0" />
+    <action name="rescue" event="1" id="8" character="53" />
+    <action name="fire" event="1" id="32" character="0" />
+    <action name="lookBack" event="1" id="66" character="0" />
+    <action name="pauserace" event="1" id="27" character="53" />
+    <action name="menuUp" event="1" id="38" character="53" />
+    <action name="menuDown" event="1" id="40" character="53" />
+    <action name="menuLeft" event="1" id="37" character="53" />
+    <action name="menuRight" event="1" id="39" character="53" />
+    <action name="menuSelect" event="1" id="13" character="53" />
+    <action name="menuCancel" event="1" id="8" character="53" />
 </keyboard>
 
 <keyboard enabled="true">
-    <action name="steerLeft" event="1" id="65" character="48" />
-    <action name="steerRight" event="1" id="68" character="48" />
-    <action name="accel" event="1" id="87" character="48" />
-    <action name="brake" event="1" id="83" character="48" />
-    <action name="nitro" event="1" id="162" character="48" />
-    <action name="drift" event="1" id="9" character="48" />
-    <action name="rescue" event="1" id="8" character="48" />
-    <action name="fire" event="1" id="32" character="48" />
-    <action name="lookBack" event="1" id="20" character="48" />
-    <action name="pauserace" event="1" id="27" character="48" />
-    <action name="menuUp" event="1" id="87" character="48" />
-    <action name="menuDown" event="1" id="83" character="48" />
-    <action name="menuLeft" event="1" id="65" character="48" />
-    <action name="menuRight" event="1" id="68" character="48" />
-    <action name="menuSelect" event="1" id="32" character="48" />
-    <action name="menuCancel" event="1" id="8" character="48" />
-</keyboard>
-
-<keyboard enabled="true">
-    <action name="steerLeft" event="1" id="37" character="48" />
-    <action name="steerRight" event="1" id="39" character="48" />
-    <action name="accel" event="1" id="38" character="48" />
-    <action name="brake" event="1" id="40" character="48" />
-    <action name="nitro" event="1" id="78" character="48" />
-    <action name="drift" event="1" id="86" character="48" />
-    <action name="rescue" event="1" id="8" character="48" />
-    <action name="fire" event="1" id="13" character="0" />
-    <action name="lookBack" event="1" id="66" character="48" />
-    <action name="pauserace" event="1" id="27" character="48" />
-    <action name="menuUp" event="1" id="38" character="48" />
-    <action name="menuDown" event="1" id="40" character="48" />
-    <action name="menuLeft" event="1" id="37" character="48" />
-    <action name="menuRight" event="1" id="39" character="48" />
-    <action name="menuSelect" event="1" id="13" character="48" />
-    <action name="menuCancel" event="1" id="8" character="48" />
+    <action name="steerLeft" event="1" id="37" character="0" />
+    <action name="steerRight" event="1" id="39" character="0" />
+    <action name="accel" event="1" id="38" character="0" />
+    <action name="brake" event="1" id="40" character="0" />
+    <action name="nitro" event="1" id="162" character="0" />
+    <action name="drift" event="1" id="160" character="0" />
+    <action name="rescue" event="1" id="8" character="0" />
+    <action name="fire" event="1" id="32" character="0" />
+    <action name="lookBack" event="1" id="164" character="0" />
+    <action name="pauserace" event="1" id="27" character="0" />
+    <action name="menuUp" event="1" id="38" character="0" />
+    <action name="menuDown" event="1" id="40" character="0" />
+    <action name="menuLeft" event="1" id="37" character="0" />
+    <action name="menuRight" event="1" id="39" character="0" />
+    <action name="menuSelect" event="1" id="13" character="0" />
+    <action name="menuCancel" event="1" id="27" character="0" />
 </keyboard>
 
 </input>

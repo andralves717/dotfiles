@@ -8,7 +8,7 @@
     <server-port value="0" />
 
     <!-- Game mode in server, 0 is normal race (grand prix), 1 is time trial (grand prix), 3 is normal race, 4 time trial, 6 is soccer, 7 is free-for-all and 8 is capture the flag. Notice: grand prix server doesn't allow for players to join and wait for ongoing game. -->
-    <server-mode value="8" />
+    <server-mode value="3" />
 
     <!-- Difficulty in server, 0 is beginner, 1 is intermediate, 2 is expert and 3 is supertux (the most difficult). -->
     <server-difficulty value="2" />
@@ -20,7 +20,7 @@
     <soccer-goal-target value="false" />
 
     <!-- Enable wan server, which requires you to have an stk-addons account with a saved session. Check init-user command for details. -->
-    <wan-server value="true" />
+    <wan-server value="false" />
 
     <!-- Enable network console, which can do for example kickban. -->
     <enable-console value="false" />
@@ -47,7 +47,7 @@
     <validation-timeout value="20" />
 
     <!-- By default WAN server will always validate player and LAN will not, disable it to allow non-validated player in WAN. -->
-    <validating-player value="true" />
+    <validating-player value="false" />
 
     <!-- Disable it to turn off all stun related code in server, it allows saving server resource if your server is not behind a firewall. -->
     <firewalled-server value="true" />

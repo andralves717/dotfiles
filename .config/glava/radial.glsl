@@ -10,7 +10,7 @@
 /* width (in pixels) of each bar*/
 #define BAR_WIDTH 4.5
 /* Amplify magnitude of the results each bar displays */
-#define AMPLIFY 300
+#define AMPLIFY 1000
 /* How quickly the gradient transitions, in pixels */
 #define GRADIENT 95
 /* Bar color. This is a gradient by default. */

@@ -175,13 +175,13 @@
         <stun-server address="stun.cope.es:3478" ping="4294967295"/>
         <stun-server address="stun.counterpath.net:3478" ping="4294967295"/>
         <stun-server address="stun.ekiga.net:3478" ping="4294967295"/>
-        <stun-server address="stun.ivao.aero:3478" ping="4294967295"/>
+        <stun-server address="stun.ivao.aero:3478" ping="51"/>
         <stun-server address="stun.l.google.com:19302" ping="4294967295"/>
-        <stun-server address="stun.schlund.de:3478" ping="54"/>
-        <stun-server address="stun.stunprotocol.org:3478" ping="164"/>
-        <stun-server address="stun1.l.google.com:19302" ping="125"/>
-        <stun-server address="stun2.l.google.com:19302" ping="50"/>
-        <stun-server address="stun3.l.google.com:19302" ping="48"/>
+        <stun-server address="stun.schlund.de:3478" ping="47"/>
+        <stun-server address="stun.stunprotocol.org:3478" ping="4294967295"/>
+        <stun-server address="stun1.l.google.com:19302" ping="4294967295"/>
+        <stun-server address="stun2.l.google.com:19302" ping="4294967295"/>
+        <stun-server address="stun3.l.google.com:19302" ping="4294967295"/>
         <stun-server address="stun4.l.google.com:19302" ping="4294967295"/>
     </stun-servers>
 
@@ -204,11 +204,11 @@
 
     <!-- The Number of karts per gamemode. -->
     <num-karts-per-gamemode>
-        <gamemode-list gamemode="0" num-karts="4"/>
+        <gamemode-list gamemode="0" num-karts="7"/>
         <gamemode-list gamemode="1002" num-karts="20"/>
         <gamemode-list gamemode="1100" num-karts="7"/>
         <gamemode-list gamemode="1101" num-karts="4"/>
-        <gamemode-list gamemode="2000" num-karts="8"/>
+        <gamemode-list gamemode="2000" num-karts="4"/>
         <gamemode-list gamemode="2001" num-karts="4"/>
         <gamemode-list gamemode="2003" num-karts="6"/>
         <gamemode-list gamemode="3000" num-karts="1"/>
@@ -270,10 +270,10 @@ moving the mouse (means acceleration).
     <item_style value="items" />
 
     <!-- Name of the last track used. -->
-    <last_track value="olivermath" />
+    <last_track value="random_track" />
 
     <!-- Last selected track group -->
-    <last_track_group value="standard" />
+    <last_track_group value="all" />
 
     <!-- Name of the skin to use -->
     <skin_file value="Coal.stkskin" />
@@ -312,11 +312,11 @@ moving the mouse (means acceleration).
              last_important_message_id : Don't show important message with this or a lower id again
              addon_last_updated : Time addon-list was updated last. -->
     <AddonServer
-        news_last_updated="1560880857"
+        news_last_updated="1562360991"
         news_frequency="0"
         news_display_count=""
         last_important_message_id="180"
-        addon_last_updated="1560872200"
+        addon_last_updated="1562360992"
     >
     </AddonServer>
 
