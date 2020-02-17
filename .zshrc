@@ -173,3 +173,11 @@ alias clean=antlr4-clean
 alias a4-test=antlr4-test
 alias main=antlr4-main
 alias config='/usr/bin/git --git-dir=/home/andralves/.cfg/ --work-tree=/home/andralves'
+
+alias iia="source $HOME/.local/bin/iiia"
+
+alias :w="xcowsay \"You aren't in vim, Jackass\""
+alias :wq="xcowsay \"You aren't in vim, Jackass\""
+alias :q="xcowsay \"You aren't in vim, Jackass\""
+alias :q!="xcowsay \"You aren't in vim, Jackass\""
+alias :x="xcowsay \"You aren't in vim, Jackass\""
